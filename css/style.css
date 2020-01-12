@@ -1,0 +1,54 @@
+body{
+    background-image: url('../assets/Back-img.png');
+}
+.header{
+    background-color: white;
+    border-bottom: gray 1px solid;
+
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+
+}
+
+.maincontent {
+    background-color: white;
+    margin-top: 3%;
+    padding: 40px;
+    
+}
+.content{
+
+    margin-top: 5%;
+    padding: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+.port{
+    background-color: white;
+    margin-top: 9%;
+    
+}
+.project-1{
+
+    margin-top: 35px;
+ margin-left: 10px;   
+ padding-bottom: 30px;
+ padding:40px;
+
+}
+.sticky-footer{
+    padding-right: 15px;
+}
+.contact-1{
+    background-color: white;
+}
+
+h1{
+    color: teal;
+}
+h4{
+    color: teal;
+}
